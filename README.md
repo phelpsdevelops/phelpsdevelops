@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm RaQuan 👋
 
-<!--
-**phelpsdevelops/phelpsdevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & QA Engineer** with a software background — I make data accurate, processes cleaner, and reporting reliable.
 
-Here are some ideas to get you started:
+- 🧹 **Data:** entry, validation, cleanup, weekly reporting (Excel/Sheets/SQL)
+- ✅ **QA:** test plans, bug reports, regression checklists, basic automation (Playwright/Jest)
+- 🛠️ **Stack:** JavaScript/TypeScript, Python, SQL, Next.js, React.js, PostgreSQL, React Native
+- 🎯 **Interests:** process control & automation, data quality, internal tools, software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Work
+- CampusFinds — college marketplace (Next.js + PostgreSQL)
+- NFL Predictive Injury Analysis — data science & modeling
+- QA Portfolio — test plans, bug reports, smoke tests
+
+### Contact
+- 📫 raquanphelps5@gmail.com  
+- 🔗 GitHub: github.com/phelpsdevelops  
+- 🔗 LinkedIn: www.linkedin.com/in/raquan
