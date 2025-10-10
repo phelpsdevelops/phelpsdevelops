@@ -1,6 +1,6 @@
 # Hi, I'm RaQuan 👋
 
-**Data & QA Engineer** with a software background — I make data accurate, processes cleaner, and reporting reliable.
+**Software & QA Engineer** with a mechatronics background — I make data accurate, processes cleaner, and reporting reliable.
 
 - 🧹 **Data:** entry, validation, cleanup, weekly reporting (Excel/Sheets/SQL)
 - ✅ **QA:** test plans, bug reports, regression checklists, basic automation (Playwright/Jest)
