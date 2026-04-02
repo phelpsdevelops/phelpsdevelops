@@ -1,16 +1,9 @@
-# Hi, I'm RaQuan 👋
+# Hi, I'm RaQuan 
 
-**Software & QA Engineer** with a mechatronics background — I make data accurate, processes cleaner, and reporting reliable.
+**Full Stack Software Engineer** with a mechatronics background — I make web apps and mobile apps for clients and sometimes for myself!
 
-- 🧹 **Data:** entry, validation, cleanup, weekly reporting (Excel/Sheets/SQL)
-- ✅ **QA:** test plans, bug reports, regression checklists, basic automation (Playwright/Jest)
-- 🛠️ **Stack:** JavaScript/TypeScript, Python, SQL, Next.js, React.js, PostgreSQL, React Native
-- 🎯 **Interests:** process control & automation, data quality, internal tools, software engineering
-
-### Featured Work
-- CampusFinds — college marketplace (Next.js + PostgreSQL)
-- NFL Predictive Injury Analysis — data science & modeling
-- QA Portfolio — test plans, bug reports, smoke tests
+- 🛠️ **Stack:** JavaScript/TypeScript, Next.js, React.js, PostgreSQL, React Native with Expo
+- 🎯 **Interests:** Web development, Mobile Development, and Automation 
 
 ### Contact
 - 📫 raquanphelps5@gmail.com  
