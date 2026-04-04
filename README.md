@@ -1,8 +1,8 @@
 # Hi, I'm RaQuan 
 
-**Full Stack Software Engineer** with a mechatronics background — I make web apps and mobile apps for clients and sometimes for myself!
+**Full Stack Software Developer** I make web apps and mobile apps for clients and sometimes for myself!
 
-- 🛠️ **Stack:** JavaScript/TypeScript, Next.js, React.js, PostgreSQL, React Native with Expo
+- 🛠️ **Stack:** JavaScript/TypeScript, Next.js, React.js, React Native with Expo, and PostgreSQL
 - 🎯 **Interests:** Web development, Mobile Development, and Automation 
 
 ### Contact
